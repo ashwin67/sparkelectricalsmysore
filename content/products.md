@@ -3,9 +3,7 @@ title: "Our Products"
 description: "Explore our Wide Range of Industrial Electrical Products"
 ---
 
-# Our Products
-
-At [Your Company Name], we pride ourselves on supplying a wide range of high-quality industrial electrical products. Our selection is designed to meet the diverse needs of Mysore's industrial sector, ensuring reliability and efficiency in your operations.
+At Spark Electricals, we pride ourselves on supplying a wide range of high-quality industrial electrical products. Our selection is designed to meet the diverse needs of Mysore's industrial sector, ensuring reliability and efficiency in your operations.
 
 ## Circuit Breakers
 
