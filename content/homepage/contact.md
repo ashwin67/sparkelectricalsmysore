@@ -4,8 +4,8 @@ weight: 4
 header_menu: true
 ---
 
-{{<icon class="fa fa-envelope">}}&nbsp;[mail@janedoe.com](mailto:your-email@your-domain.com)
+{{<icon class="fa fa-envelope">}}&nbsp;[sparkelectricalsmysore@gmail.com](mailto:sparkelectricalsmysore@gmail.com)
 
-{{<icon class="fa fa-phone">}}&nbsp;[+49 1111 555555](tel:+491111555555)
+{{<icon class="fa fa-phone">}}&nbsp;[+91 94489 58538](tel:+919448958538)
 
-Let us get in touch!
+Contact us any time to get a quote or to know more about our services.
